@@ -4,6 +4,11 @@
 
 ### STEPS:
 
+clone the repository
+'''base
+https://github.com/diyak01/Books-Recommender-System.git
+'''
+
 # Step 1: Create a conda environment after opening the repository
 
 '''bash
