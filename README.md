@@ -29,7 +29,12 @@ conda create -n books python=3.7.10 -y
 conda activate books
 '''
 
-#step2 : install the requirements
+# step2 : install the requirements
 '''bash
 pip install -r requirements.txt
+'''
+
+## Step 3 - Run the app.py file
+'''bash
+python app.py
 '''
